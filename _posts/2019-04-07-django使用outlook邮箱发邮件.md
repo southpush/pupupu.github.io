@@ -50,4 +50,4 @@ auth.py
 
 另附官方文档说明：
 
-![django说明](https://github.com/southpush/southpush.github.io/blob/master/postsImage/20190407225518.png)
+![django说明](https://github.com/southpush/southpush.github.io/blob/master/postsImage/20190407225518.png?raw=true)
