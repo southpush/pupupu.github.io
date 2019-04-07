@@ -50,16 +50,4 @@ auth.py
 
 另附官方文档说明：
 
-<font color="#0C3C26">
-EMAIL_HOST_USER¶
-Default: '' (Empty string)
-
-Username to use for the SMTP server defined in EMAIL_HOST. If empty, Django won’t attempt authentication.
-
-See also EMAIL_HOST_PASSWORD.
-
-EMAIL_PORT¶
-Default: 25
-
-Port to use for the SMTP server defined in EMAIL_HOST.
-</font>
+![](https://github.com/southpush/southpush.github.io/blob/master/postsImage/20190407225518.png)
