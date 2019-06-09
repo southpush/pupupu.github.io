@@ -2,8 +2,8 @@
 layout:     post
 title:      django发送邮件
 subtitle:   使用django+outlook的配置发送邮件
-date:       2017-01-06
-author:     BY
+date:       2019-04-07
+author:     PUPUPU
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
